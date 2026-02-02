@@ -11,7 +11,7 @@
     "deploy": "npm run pages:build && wrangler pages deploy .vercel/output/static"
   },
   "dependencies": {
-    "next": "14.1.0",
+    "next": "latest",
     "react": "^18",
     "react-dom": "^18",
     "lucide-react": "^0.309.0"
