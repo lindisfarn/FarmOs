@@ -1,0 +1,9 @@
+name = "farmos"
+compatibility_date = "2024-02-02"
+compatibility_flags = ["nodejs_compat"]
+pages_build_output_dir = ".vercel/output/static"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "farmos-db"
+database_id = "58e7bf80-c528-436d-9595-d085fa580d5c"
